@@ -8,3 +8,5 @@ npm-debug.log*
 .DS_Store
 .dev-server.log
 .dev-server.pid
+.freebuff/
+.cloud-attachments/
